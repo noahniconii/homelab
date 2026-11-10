@@ -7,7 +7,7 @@ A collection of documentation, configurations, devices, and projects from my per
 - Google Drive backup
 - DDNS (disabled since 30/10/26 due to an unpatched DSM vulnerability)
 - Reverse proxy with DDNS
-### Minisforum U500-H (i3 5005u + 8GB DDR3 + 128GB SATA M.2 + 1TB HDD)
+### Minisforum U500-H (i3 5005u + 16GB DDR3 + 128GB SATA M.2 + 1TB HDD)
 Zima OS installed
 - Jellyfin
 - Radarr, Sonarr and Bazarr for media management
