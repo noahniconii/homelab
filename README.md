@@ -40,4 +40,4 @@ Used to turn on my PC
 - [homebridge-adguardhome](https://github.com/davidmerrique/homebridge-adguardhome#readme) <br>
 Used to turn OFF/ON AdGuard Home
 - [homebridge-tuya-platform](https://github.com/0x5e/homebridge-tuya-platform#readme) <br>
-Used to make my Tuya devices compatible with Apple Home
+Used to make my Tuya devices compatible with Apple Home (HomeKit)
