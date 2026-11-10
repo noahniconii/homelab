@@ -31,6 +31,7 @@ Zima OS installed
 Used as a Matter hub, speaker, and HomeKit home hub
 - Desktop PC : Ryzen 5 5600 · RTX 3070 · 32GB DDR4 · 6.5TB of storage · 2.5Gbps PCIe card
 - HP Probook 440 G9 : Pentium Gold 8505 · 16GB DDR4 · 512GB of storage
+- TCL 55C755
 <br>
 
 ## Homebridge Plugin
